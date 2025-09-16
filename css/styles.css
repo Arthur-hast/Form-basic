@@ -39,9 +39,9 @@ textarea {
 .header {
     height: 200px;
     padding: 30px;
-    background-image: url("./image_copy.png");
-    background-position: center;
     background-color: #673ab7;
+    background-image: url("/image_copy.png");
+    background-position: center;
 }
 
 .header h2 {
@@ -62,7 +62,7 @@ textarea {
     width: 60%;
     margin: 0 auto;
     position: relative;
-    top: -62px;
+    top: -86px;
 }
 
 /* form header */
