@@ -41,6 +41,7 @@ textarea {
     padding: 30px;
     background-image: url("./image_copy.png");
     background-position: center;
+    background-color: #673ab7;
 }
 
 .header h2 {
