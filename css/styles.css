@@ -39,7 +39,7 @@ textarea {
 .header {
     height: 200px;
     padding: 30px;
-    background-image: url("/image_copy.png");
+    background-image: url("./image_copy.png");
     background-position: center;
 }
 
